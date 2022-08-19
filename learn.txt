@@ -1,0 +1,15 @@
+k8s     https://kubernetes.io/zh/docs/concepts/
+学库          https://learnku.com/articles/49906
+大卫    https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/
+go-cn ----  https://gocn.vip/
+kafka     https://blog.csdn.net/hellozpc/article/details/105680217
+liwenzhou  https://www.liwenzhou.com/posts/Go/rpc/#autoid-0-0-0
+docker   https://yeasy.gitbook.io/docker_practice/introduction/what
+redis常规  https://www.php.cn/toutiao-415480.html
+go系统编程  https://www.topgoer.com/
+
+
+block-chain
+登链   https://learnblockchain.cn/
+合约实战  https://cryptozombies.io/zh/
+fabric    https://learnblockchain.cn/books/enterprise/chapter3_00.html
